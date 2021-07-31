@@ -49,3 +49,29 @@ public class Stack {
 		}
 	}
 }
+/*package StackX;
+
+public class MainStack {
+
+	public static void main(String[] args) {
+		
+		StackX mystack=new StackX(10);
+		
+		mystack.push(1);
+		mystack.push(2);
+		mystack.push(3);
+		mystack.push(4);
+		mystack.push(5);
+		
+		
+		while(!mystack.isEmpty()) {
+			
+			System.out.println(mystack.pop());
+		}
+		
+		
+
+	}
+
+}
+*/
